@@ -1,3 +1,4 @@
+# This is a game being constructed by mucking around with
 # Squirrel Eat Squirrel (a 2D Katamari Damacy clone)
 # By Al Sweigart al@inventwithpython.com
 # http://inventwithpython.com/pygame
